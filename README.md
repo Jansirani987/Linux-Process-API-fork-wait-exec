@@ -45,9 +45,9 @@ int main() {
 
 
 ```
-##OUTPUT
+## OUTPUT
 
-![WhatsApp Image 2025-09-16 at 13 46 26_90b73df9](https://github.com/user-attachments/assets/69910b37-0603-471c-94b9-b8250a564552)
+![WhatsApp Image 2025-09-16 at 13 49 19_fe68016a](https://github.com/user-attachments/assets/17896d13-afc7-4845-bab6-f365b0bd8c3b)
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -96,7 +96,7 @@ int main() {
 
 ```
 
-##OUTPUT
+## OUTPUT
 
 ![WhatsApp Image 2025-09-16 at 13 46 26_3eecc64d](https://github.com/user-attachments/assets/bd78780c-a040-40f4-b0e7-4852a43ac167)
 
